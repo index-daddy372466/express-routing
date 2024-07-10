@@ -1,11 +1,11 @@
 {
-  "name": "client",
+  "name": "express-router",
   "version": "1.0.0",
   "description": "",
   "main": "server/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "exp":"nodemon app.js"
+    "exp": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
